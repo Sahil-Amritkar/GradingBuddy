@@ -1,4 +1,4 @@
-<H1 align="center">FasterTag</H1>
+<H1 align="center">GradingBuddy</H1>
 <H3 align="center">An NLP tool to grade answers based on a model answer</H3>
 
 ## How it works
