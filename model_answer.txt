@@ -1,0 +1,1 @@
+Machine learning is a field of artificial intelligence that focuses on the development of algorithms and statistical models that allow computer systems to learn and make predictions or decisions based on input data, without being explicitly programmed to perform those tasks.
